@@ -1,0 +1,67 @@
+{
+  "original": {
+    "url": "https://storage.googleapis.com/ottball-b-1/videos/tos/input.mp4",
+    "type": "video/mp4; codecs=avc1.4d401e,mp4a.40.2",
+    "size": "32.4",
+    "resolution": "1920x800",
+    "codec": "H.264"
+  },
+  "fakes": [
+    {
+      "url": "https://storage.googleapis.com/ottball-b-1/videos/tos/output-hvc.mp4",
+      "type": "video/mp4; codecs=hvc1",
+      "codec": "HEVC",
+      "size": "1.7",
+      "resolution": "1280x534",
+      "createdBy": "ffmpeg"
+    },
+    {
+      "url": "https://storage.googleapis.com/ottball-b-1/videos/tos/output-avc.mp4",
+      "type": "video/mp4; codecs=avc1",
+      "codec": "H.264",
+      "size": "14.3",
+      "resolution": "1280x534",
+      "createdBy": "ffmpeg"
+    },
+    {
+      "url": "https://storage.googleapis.com/ottball-b-1/videos/tos/output-vp9.webm",
+      "type": "video/webm; codecs=vp9,opus",
+      "codec": "VP9",
+      "size": "2.1",
+      "resolution": "1280x534",
+      "createdBy": "ffmpeg"
+    },
+    {
+      "url": "https://storage.googleapis.com/ottball-b-1/videos/tos/output-av1.webm",
+      "type": "video/webm; codecs=av01.0.05M.08",
+      "codec": "AV1",
+      "size": "1.5",
+      "resolution": "1280x534",
+      "createdBy": "ffmpeg"
+    },
+    {
+      "url": "https://storage.googleapis.com/ottball-b-1/videos/tos/freeconvert.mp4",
+      "type": "video/mp4; codecs=avc1",
+      "codec": "H.264",
+      "size": "19.6",
+      "resolution": "1280x534",
+      "createdBy": "FreeConvert"
+    },
+    {
+      "url": "https://storage.googleapis.com/ottball-b-1/videos/tos/youcompress.mp4",
+      "type": "video/mp4; codecs=avc1",
+      "codec": "H.264",
+      "size": "11.6",
+      "resolution": "1280x534",
+      "createdBy": "YouCompress"
+    },
+    {
+      "url": "https://storage.googleapis.com/ottball-b-1/videos/tos/clipchamp.mp4",
+      "type": "video/mp4; codecs=avc1",
+      "codec": "H.264",
+      "size": "18.6",
+      "resolution": "1280x534",
+      "createdBy": "ClipChamp"
+    }
+  ]
+}
